@@ -2,7 +2,6 @@
 
 ## 软件简介
 
-软件基本信息，License，所属的类别，作用，特点等。
 Jetty是一个纯Java的HTTP（Web）服务器和Java Servlet容器。虽然Web服务器通常与向人员提供文档相关联，但Jetty通常用于机器到机器通信，通常在较大的软件框架内。Jetty作为Eclipse基金会的一部分开发为一个免费开源项目。Web服务器用于Apache ActiveMQ，Alfresco，Apache Geronimo，Apache Maven，Apache Spark，Google App Engine，Eclipse，FUSE，Twitter的Streaming API和Zimbra等产品。Jetty也是开源项目的服务器，如Lift，Eucalyptus，Red5，Hadoop和I2P。Jetty支持最新的Java Servlet API（支持JSP）以及协议SPDY和WebSocket。
 
 所属类别是服务器软件
